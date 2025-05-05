@@ -2,7 +2,7 @@
 
 Submitted by: **Roshan Aterugu**
 
-**Project_For_CodePath** is an app that... [contains 3 lables representing the my name, university, and future carrer plan. This app contains a button which, when press changes the color of the app background randomly.]
+**Project_For_CodePath** is an app that allows the user to change the background of the app to a random color once the button is pressed. It contains 3 lables representing the my name, university, and future carrer plan with a button which, when press changes the color of the app background randomly.
 
 Time spent: **3** hours spent in total
 
@@ -15,12 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
-
-<iframe width="646" height="1148" src="https://www.youtube.com/embed/wCrFymUAun8" title="iOS Pre-Work Submission WalkThrough" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Demo Video](https://img.youtube.com/vi/wCrFymUAun8/0.jpg)](https://youtu.be/wCrFymUAun8) 
 
 ## App Brainstorming (Step 4)
 
